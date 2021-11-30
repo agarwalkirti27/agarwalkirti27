@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Kirti Agarwal
-- 👀 I’m interested in developing interesting projects
-- 🌱 I’m currently learning Vue.js
-- 💞️ I’m looking to collaborate on various Web Development Projects
 - 📫 How to reach me via Linkedin : https://www.linkedin.com/in/writekirti
 
 <!---
